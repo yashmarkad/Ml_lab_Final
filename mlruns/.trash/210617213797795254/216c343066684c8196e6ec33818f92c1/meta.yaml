@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/210617213797795254/216c343066684c8196e6ec33818f92c1/artifacts
+deleted_time: 1735460374675
+end_time: 1735408722122
+entry_point_name: ''
+experiment_id: '210617213797795254'
+lifecycle_stage: deleted
+run_id: 216c343066684c8196e6ec33818f92c1
+run_name: invincible-worm-789
+run_uuid: 216c343066684c8196e6ec33818f92c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735408711220
+status: 4
+tags: []
+user_id: HP

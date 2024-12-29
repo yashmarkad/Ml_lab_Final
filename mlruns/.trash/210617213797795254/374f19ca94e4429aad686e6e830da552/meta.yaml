@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/210617213797795254/374f19ca94e4429aad686e6e830da552/artifacts
+deleted_time: 1735460374675
+end_time: 1735408921508
+entry_point_name: ''
+experiment_id: '210617213797795254'
+lifecycle_stage: deleted
+run_id: 374f19ca94e4429aad686e6e830da552
+run_name: treasured-crab-882
+run_uuid: 374f19ca94e4429aad686e6e830da552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735408910429
+status: 3
+tags: []
+user_id: HP

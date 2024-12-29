@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/525860641084644657/43274dc2b7544097b45581af4a5a1e94/artifacts
+end_time: 1735461499881
+entry_point_name: ''
+experiment_id: '525860641084644657'
+lifecycle_stage: active
+run_id: 43274dc2b7544097b45581af4a5a1e94
+run_name: entertaining-fox-236
+run_uuid: 43274dc2b7544097b45581af4a5a1e94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735461484705
+status: 3
+tags: []
+user_id: HP

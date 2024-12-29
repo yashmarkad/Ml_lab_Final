@@ -1,0 +1,20 @@
+artifact_path: Sentiment_mo
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.0
+mlflow_version: 2.19.0
+model_size_bytes: 8979013
+model_uuid: 03c195bafb494911a2eb693bb4e0eb37
+run_id: b9c6afbb0d3f4b05968d4de160e0f0c0
+utc_time_created: '2024-12-28 17:59:18.079611'
