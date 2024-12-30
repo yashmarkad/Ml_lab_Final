@@ -1,6 +1,9 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import nltk
+nltk.data.path.append('/path/to/nltk_data') 
+nltk.download('wordnet')
 from nltk.stem import WordNetLemmatizer
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
